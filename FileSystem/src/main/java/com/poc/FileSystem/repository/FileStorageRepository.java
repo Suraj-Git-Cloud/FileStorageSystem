@@ -2,7 +2,7 @@ package com.poc.FileSystem.repository;
 
 import org.springframework.stereotype.Repository;
 
-//@Repository
+@Repository
 public class FileStorageRepository {
 
 }
